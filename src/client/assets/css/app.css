@@ -1,0 +1,40 @@
+@import url(https://fonts.googleapis.com/css?family=Droid+Sans);
+
+*, html
+{
+	font-family: 'Droid Sans', sans-serif;	
+}
+
+body{
+    margin: 0;
+    background-color: #f4f4f4;
+}
+
+.small-image{
+	height: 40px;
+	width: 40px;
+}
+
+.cp-hue-drag {
+	
+}
+
+.cp-hue-spectrum {
+	height: 100px;
+	width: 10px;
+}
+
+.cp-saturation-spectrum {
+	height: 100px;
+	width: 100px;
+}
+
+.site-header {
+	background: #336699;
+	margin: 0;
+}
+
+.site-header h2 {
+	color: #eee;
+}
+
